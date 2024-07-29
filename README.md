@@ -1,12 +1,12 @@
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)]('http://localhost:3000')
 <h1>Hi 👋, I'm Adrian Hoff</h1>
 <h3>Transforming Ideas into Scalable Solutions</h3>
-<p>
+<div align="justify">
 Welcome to my GitHub profile! I'm a software engineer focused on building scalable, efficient backend systems. Specializing in microservices architecture, API development, and front-end development with React Native and React.js, I turn complex ideas into effective solutions
 </p>
-<p>
+<div align="justify">
 In addition to my professional interests, I enjoy exploring various facets of technology, learning new languages, appreciating art, diving into a good book, and understanding the intricacies of psychology. These passions fuel my creativity and problem-solving skills, enriching my approach to software engineering.
-</p>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
